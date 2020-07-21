@@ -1,7 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3bc1a267efad4e1eaa614b4dd8404c35)](https://www.codacy.com/manual/lkumarra/ProtractorPageObjectModel?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lkumarra/ProtractorPageObjectModel&amp;utm_campaign=Badge_Grade)
-
-![Protractor](./Projects/Guru99BankTestAutomation/SampleReport/protractor.jpg)
-
 # Pre-requisite to Start Execution:
 1. *Java (JDK)*
 2. *Nodejs*
@@ -107,6 +103,3 @@
 
 	This Folder Contains all Utility Functions
 	
-
-# To Send TestReports on Email Please set email and password as env varaible .
-**For More detail refer the link https://github.com/lkumarra/ProtractorPageObjectModel/blob/master/Projects/Guru99BankTestAutomation/Config/Config.ts**
