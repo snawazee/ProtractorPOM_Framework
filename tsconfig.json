@@ -1,0 +1,30 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "ES2017",
+    "downlevelIteration": true,
+    "lib": ["es2017"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "declaration": false,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "e2e_tests/",
+    "types": [
+      "node",
+      "jasmine",
+      "jasminewd2"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "Projects"
+  ]
+}
